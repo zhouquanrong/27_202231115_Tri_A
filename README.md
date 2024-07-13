@@ -1,4 +1,4 @@
-Project ini melibatkan pengolahan citra digital untuk mendeteksi tepi dan kontur dalam gambar. Teori-teori yang mendukung proyek ini termasuk teori pemrosesan citra digital, deteksi tepi, dan deteksi kontur. Berikut peteori yang mendasari setiap tahap dalam proyek ini:
+Project ini melibatkan pengolahan citra digital untuk mendeteksi tepi dan kontur dalam gambar. Teori-teori yang mendukung proyek ini termasuk teori pemrosesan citra digital, deteksi tepi, dan deteksi kontur. Berikut penjelasan teori yang mendasari setiap tahap dalam proyek ini:
 
 1. Pemrosesan Citra Digital
 Pemrosesan citra digital adalah disiplin ilmu yang mencakup analisis dan manipulasi gambar menggunakan komputer. Gambar digital diwakili oleh matriks pixel, di mana setiap pixel memiliki nilai intensitas tertentu. Dalam konteks proyek ini, kita memulai dengan memuat gambar digital menggunakan pustaka OpenCV dan mengubahnya menjadi citra grayscale.
